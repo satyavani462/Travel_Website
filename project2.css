@@ -68,7 +68,7 @@ html {
 }
 
 .background {
-    background: rgb(0, 0, 0, 0.7) url('/images/projbag.jpg');
+    background: rgb(0, 0, 0, 0.7) url('projbag.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-blend-mode: darken;
@@ -264,7 +264,7 @@ footer {
     }
 
     .navback {
-        background: rgb(0, 0, 0, 0.7) url('/images/navback.webp');
+        background: rgb(0, 0, 0, 0.7) url('navback.webp');
         background-position: center center;
         background-repeat: no-repeat;
         background-blend-mode: darken;
